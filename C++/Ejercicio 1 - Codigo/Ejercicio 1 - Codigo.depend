@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535134694 source:d:\1° año\ejercicios terminados\algoritmos y estructura de datos\ejercicio 1 - codigo\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdio>
+	<cstring>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519843380 source:d:\1° año\ejercicios terminados\algoritmos y estructura de datos\ej. mi-30\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+

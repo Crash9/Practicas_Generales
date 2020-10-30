@@ -1,6 +1,6 @@
 # Practicas_Generales
 
-###### C++
+### C++
 
 Ejercicios resueltos de la materia *Algoritmos y Estructura de Datos*, 1° año Ingeniería de Sistemas, UTN.
 
